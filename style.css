@@ -1,0 +1,9 @@
+
+body{
+    height: 100vh;
+}
+button{
+    display: flex;
+    margin: auto;
+    margin-top: 5rem;
+}
